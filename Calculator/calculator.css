@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  background-color: black;
+}
+.finalans {
+  color: white;
+  font-size: 45px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+.black-button {
+  background-color: rgba(51, 51, 51);
+  color: white;
+}
+.yellow-button {
+  background-color: rgb(255, 183, 0);
+  color: white;
+}
+.calculation-button {
+  width: 50px;
+  height: 50px;
+  font-size: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-right: 5px; 
+}
+.clear-button {
+  width: 50px;
+  height: 50px;
+  font-size: bold;
+  font-size: 15px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-right: 5px; 
+}
