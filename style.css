@@ -216,7 +216,7 @@ nav li:hover {
 
 .project_img {
   height: 20rem;
-  width: 40rem;
+  width: 32rem;
 }
 
 
@@ -264,14 +264,6 @@ nav li:hover {
   font-size: 3rem;
   font-weight: bold;
 }
-
-/* .bottom_contact {
-  display: grid;
-  gap: 1rem;
-  max-width: 400px;
-  margin: 0 auto;
-  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-} */
 
 
 /* footer styling */
